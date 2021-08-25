@@ -1,19 +1,19 @@
-# Youtube Dl bot 😉
-## Prerequisite
-    ffmpeg
+# Youtube Dl bot 🎥
+
+## BOT TO DOWNLOAD MEIDA FROM YOUTUBE 🐞LINKS
   
-    
-## install dependencies
-    pip3 install -r requirements.txt
+
+# <b><i> `Support` </i></b>
+
+<a href="https://telegram.me/Psycho_Bots" target="_blank"><img src="https://img.shields.io/badge/Join-Channel-yellow.svg?style=for-the-badge&logo=Telegram"></a>
+
+<a href="https://telegram.me/PsychoBots_Chat" target="_blank"><img src="https://img.shields.io/badge/Join-Support%20Group-brown.svg?style=for-the-badge&logo=Telegram"></a>
+
+# <i> Thanks...❤️ </i> 
 
 
-## Setup Bot
-    - Change configuration config.py  File
-    - install dependencies
-    - python3 -m bot
-    
-## Thanks ❤️
-* [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
-* [HasibulKabir](https://telegram.dog/HasibulKabir)
+## ~By [@Psychobots](https://t.me/Psycho_Bots)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aryanvikash/Youtube-Downloader-Bot/tree/master)
+## ♦️Supporter [Don't Forget to visit TUBOTS]♦️
+
+## ~ [@Tubots](https://t.me/tubots)❤️
