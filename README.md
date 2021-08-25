@@ -1,4 +1,4 @@
-# Youtube Dl bot 🎥
+# Youtube Meidia Downloader-bot 🎥
 
 ## BOT TO DOWNLOAD MEIDA FROM YOUTUBE 🐞LINKS
   
