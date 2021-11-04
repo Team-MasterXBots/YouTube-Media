@@ -48,7 +48,7 @@ def extractYt(yturl):
 #         ydl.download([url])
 
 
-# https://github.com/SpEcHiDe/AnyDLBot
+# https://github.com/Team-MasterXBots/YouTube-Media
 
 async def downloadvideocli(command_to_exec):
     process = await asyncio.create_subprocess_exec(
